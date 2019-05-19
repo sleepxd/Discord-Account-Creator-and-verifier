@@ -1,0 +1,23 @@
+{
+        "output_file": "out/emails.txt",
+        "output_token_file": "out/tokens.txt",
+        "proxy_file": "in/proxies.txt",
+		"usedproxies": "data/usedproxies.txt",
+		"profilepicturedir": "profilepictures",
+        "timeout": 15000,
+        "use_proxies": true,
+        "override_names_with_list": true,
+        "override_names_list": "config/usernames.txt",
+        "override_email": true,
+        "email_override": [
+            "@domain.com"
+        ],
+        "use_imap": false,
+        "use_imap_mail_in": "in/mails.txt",
+        "use_imap_mail_used": "data/used_mails.txt",
+        "blacklist_emails": "config/blacklisted_emails.txt",
+        "sleepdelay": 0.3,
+        "nb_threads": 10,
+        "skip_if_captcha": false,
+        "debug": false
+}

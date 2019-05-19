@@ -1,0 +1,13 @@
+{
+        "output_file": "out/accounts_verified_phone.txt",
+        "tokens_file": "out/tokens.txt",
+        "smspva_api_key": "",
+        "smspva_region": "ru",
+        "proxy_file": "in/proxies.txt",
+		"usedproxies": "data/usedproxies_phone.txt",
+        "use_proxies": false,
+        "timeout": 15000,
+        "nb_threads": 1,
+        "sleepdelay": 0.3,
+        "debug": false
+}

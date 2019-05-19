@@ -1,0 +1,13 @@
+{
+        "output_file": "out/accounts_verified.txt",
+        "emails_file": "out/emails.txt",
+        "proxy_file": "in/proxies.txt",
+        "timeout": 15000,
+        "use_proxies": false,
+        "use_imap": false,
+        "imap_host": "imap.mail.ru",
+        "imap_port": 993,
+        "nb_threads": 10,
+        "sleepdelay": 0.3,
+        "debug": false
+}

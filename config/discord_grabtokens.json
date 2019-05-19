@@ -1,0 +1,9 @@
+{
+        "emails_file": "out/emails.txt",
+        "output_token_file": "out/tokens.txt",
+        "timeout": 15000,
+        "use_proxies": true,
+        "sleepdelay": 0.3,
+        "nb_threads": 10,
+        "debug": false
+}

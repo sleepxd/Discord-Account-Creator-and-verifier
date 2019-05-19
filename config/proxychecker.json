@@ -1,0 +1,6 @@
+{
+        "output_file": "in/proxies.txt",
+        "input_file": "in/unverifiedproxies.txt",
+        "timeout": 7500,
+        "nb_threads": 25
+}
